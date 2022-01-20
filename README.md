@@ -1,3 +1,3 @@
-# Light Mode | Dark MOde
+# Light Mode | Dark Mode
 
 Mini Project for Using Context API
